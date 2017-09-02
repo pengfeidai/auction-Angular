@@ -1,0 +1,11 @@
+.thumbnail img {
+  width: 100%;
+  height: 150px;
+}
+.pull-right {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
