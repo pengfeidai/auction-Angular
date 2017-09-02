@@ -32,9 +32,9 @@
 
 **首页**
 
-首页左侧为搜索表单，主要使用了 `FormBuilder`, `FormControl`,` FormGroup`，使用filter实现搜索效果。
+左侧为搜索表单，主要使用了 `FormBuilder`, `FormControl`,` FormGroup`，使用filter实现搜索效果。
 
-首页右侧为一个轮播图组件，利用bootstrap框架实现。下面产品列表的数据来自后端模拟的数据，通过http通讯来获取，并将其展示在页面。
+右侧为一个轮播图组件，利用bootstrap框架实现。下面产品列表的数据来自后端模拟的数据，通过http通讯来获取，并将其展示在页面。
 
 **产品详情页**
 
