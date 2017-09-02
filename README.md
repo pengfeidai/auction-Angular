@@ -4,8 +4,6 @@
 
 ![图片预览](http://ot4esom84.bkt.clouddn.com/17-9-2/72946124.jpg)
 
-![图片预览](http://ot4esom84.bkt.clouddn.com/17-9-2/4114828.jpg)
-
 
 ## 技术栈
 
