@@ -3,6 +3,7 @@
 这一个基于 Angular4.0 、Nodejs 和 Express 的小型电子产品售卖平台，使用了 Http 通讯，Route，依赖注入，pipe管道，响应式表单等技术。
 
 ![图片预览](http://ot4esom84.bkt.clouddn.com/17-9-2/72946124.jpg)
+![图片预览](http://ot4esom84.bkt.clouddn.com/17-9-2/4740444.jpg)
 
 
 ## 技术栈
